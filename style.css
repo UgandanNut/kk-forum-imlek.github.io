@@ -1,0 +1,202 @@
+
+body{
+    background-color: #DE2828;
+}
+
+html{
+    height: 1500px;
+    border: 2px solid rgb(255, 202, 28);
+    border-radius: 50px;
+}
+
+
+.bg img{
+    width: 300px;
+    height: 150px;
+    margin-left: 35px;
+    border: white solid;
+    border-radius: 50px;
+    margin-top: 3px;
+}
+
+
+
+.LOGO-1{
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+    border-bottom: 2px solid yellow;
+    border-radius: 30px;
+    font-size: 10px;
+    font-weight: 5px;
+    margin-top: 10px;
+}
+
+.pendahuluan{
+    font-size: 6px;
+    font-family: cursive;
+    color: white;
+    border-bottom: 2px solid yellow;
+    border-radius: 25px;
+}
+
+
+.paragraph {
+    font-family: 'Permanent Marker';
+    font-size: 5px;
+    color: orange;
+    }
+
+.paragraph {
+    scrollbar-width: normal;
+    scrollbar-color: grey;
+    
+}
+
+.paragraph ::-webkit-scrollbar{
+    width: 4vw;
+}
+
+.paragraph ::-webkit-scrollbar-thumb{
+    background-color: white;
+}
+
+   
+.paragraph {
+    font-family: cursive;
+    font-size: 10px;
+    
+}
+
+.paragraph li h1 h2 h3 h4 h5{
+    height: 250px;
+    align-items: center;
+}
+
+.paragraph li{
+    font-family: cursive;
+    font-size: 15px;
+    color: yellow;
+    border-bottom: 2px solid white;
+    border-radius: 15%;
+}
+
+.paragraph h1{
+    font-family: cursive;
+    font-size: 15px;
+    margin-top: 1px;
+    color: yellow;
+}
+
+.paragraph h2{
+    font-family: cursive;
+    font-size: 15px;
+    margin-top: 2px;
+    color: yellow;
+}
+
+.paragraph h3{
+    font-family: cursive;
+    font-size: 15px;
+    margin-top: 3px;
+    color: yellow;
+}
+
+.paragraph h4{
+    font-family: cursive;
+    font-size: 15px;
+    margin-top: 4px;
+    color: yellow;
+}
+
+.paragraph h5{
+    font-family: cursive;
+    font-size: 15px;
+    margin-top: 5px;
+    color: yellow;
+}
+
+
+.exclamation-mark img{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    margin-top: -10px;
+    margin-left: 1%;
+}
+
+.mark img{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    margin-top: 89px;
+    margin-left: 46%;
+}
+
+
+.cloud img{
+    position:absolute;
+    z-index: -1;
+    width: 100px;
+    height: 150px;
+    margin-top: 100px;
+    width: 300px;
+    height: 250px;
+}
+
+.cloud-1 img{
+    position:absolute;
+    z-index: -1;
+    width: 100px;
+    height: 150px;
+    margin-top: 400px;
+    width: 300px;
+    height: 250px;
+}
+
+.cloud-2 img{
+    position:absolute;
+    z-index: -1;
+    width: 100px;
+    height: 150px;
+    margin-top: 700px;
+    width: 300px;
+    height: 250px;
+}
+
+.barongsai img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-top: 260px;
+    margin-left: 55%;
+}
+
+.barongsai1 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-top: 375px;
+    margin-left: 15%;
+}
+
+.barongsai2 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-top: 490px;
+    margin-left: 93%;
+}
+
+.barongsai3 img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-top: 655px;
+    margin-left: 50%;
+}
+
+
+
+
+
+
