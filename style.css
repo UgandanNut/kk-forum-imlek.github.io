@@ -1,4 +1,6 @@
-
+*{
+    font-family:  'Permanent Marker';
+}
 body{
     background-color: #DE2828;
 }
@@ -33,7 +35,6 @@ html{
 
 .pendahuluan{
     font-size: 6px;
-    font-family: cursive;
     color: white;
     border-bottom: 2px solid yellow;
     border-radius: 25px;
@@ -62,7 +63,6 @@ html{
 
    
 .paragraph {
-    font-family: cursive;
     font-size: 10px;
     
 }
@@ -70,10 +70,12 @@ html{
 .paragraph li h1 h2 h3 h4 h5{
     height: 250px;
     align-items: center;
+    font-family: 'Permanent Marker';
+    font-weight: 20;
 }
 
 .paragraph li{
-    font-family: cursive;
+    font-family:  'Permanent Marker';
     font-size: 15px;
     color: yellow;
     border-bottom: 2px solid white;
@@ -81,35 +83,35 @@ html{
 }
 
 .paragraph h1{
-    font-family: cursive;
+    font-family:  'Permanent Marker';
     font-size: 15px;
     margin-top: 1px;
     color: yellow;
 }
 
 .paragraph h2{
-    font-family: cursive;
+    font-family:  'Permanent Marker';
     font-size: 15px;
     margin-top: 2px;
     color: yellow;
 }
 
 .paragraph h3{
-    font-family: cursive;
+    font-family:  'Permanent Marker';
     font-size: 15px;
     margin-top: 3px;
     color: yellow;
 }
 
 .paragraph h4{
-    font-family: cursive;
+    font-family:  'Permanent Marker';
     font-size: 15px;
     margin-top: 4px;
     color: yellow;
 }
 
 .paragraph h5{
-    font-family: cursive;
+    font-family:  'Permanent Marker';
     font-size: 15px;
     margin-top: 5px;
     color: yellow;
@@ -128,8 +130,8 @@ html{
     width: 20px;
     height: 20px;
     position: absolute;
-    margin-top: 89px;
-    margin-left: 46%;
+    margin-top: 26px;
+    margin-left: 43%;
 }
 
 
